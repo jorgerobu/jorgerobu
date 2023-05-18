@@ -1,8 +1,9 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Hola%2C+me+llamo+Jorge+Rodr%C3%ADguez;y+soy+desarrollador+web+junior" alt="Typing SVG" /></a>
 </div>
+<br>
 <div align="center">
-![Banner](https://github.com/jorgerobu/jorgerobu/assets/108863916/c87d2d92-9454-42b5-9873-709aa32b69e7)
+  <img src ="https://github.com/jorgerobu/jorgerobu/assets/108863916/c87d2d92-9454-42b5-9873-709aa32b69e7"/>
 </div>
 
 ## 𝗠is skills
