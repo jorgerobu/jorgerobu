@@ -6,7 +6,7 @@
   <img src ="https://github.com/jorgerobu/jorgerobu/assets/108863916/c87d2d92-9454-42b5-9873-709aa32b69e7"/>
 </div>
 
-## 𝗠is skills
+## Mis skills
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
